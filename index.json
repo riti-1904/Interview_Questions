@@ -849,5 +849,10 @@
     "answerLink" : "Open"
         
 }
+    {
+        "id": "166",
+        "question": "Why do we require sensory feedback in VR?",
+        "answerLink": "Sensory feedback is required for proper stimulation of senses like visual, touch, aural,etc."
+    },
  
   ]
