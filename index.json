@@ -849,5 +849,10 @@
     "answerLink" : "Open"
         
 }
+    {
+        "id": "162",
+        "question": "What is Immersion in Virtual Reality?",
+        "answerLink": "Immersion in a virtual environment means the perception of presence in a non-physical or virtual world. A state of complete immersion is said to be present when enough human senses are stimulated to create a sensation of existing in the virtual world."
+    },
  
   ]
