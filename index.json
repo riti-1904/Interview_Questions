@@ -849,5 +849,9 @@
     "answerLink" : "Open"
         
 }
- 
+  {
+        "id": "164",
+        "question": "Which immersions are there in VR?",
+        "answerLink": "1.Mental immersion & 2.Physical immersion "
+    },
   ]
