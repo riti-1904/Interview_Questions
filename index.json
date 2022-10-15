@@ -849,5 +849,10 @@
     "answerLink" : "Open"
         
 }
+    {
+        "id": "164",
+        "question": "How many type of immersion is there in VR?",
+        "answerLink": "There are 2 types of immersion in VR."
+    },
  
   ]
