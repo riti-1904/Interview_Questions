@@ -849,5 +849,10 @@
     "answerLink" : "Open"
         
 }
+    {
+        "id": "167",
+        "question": "Which hardware & software inputs are required for sensory feedback?",
+        "answerLink": "Head mounted displays (HMD), hand accessories, hand controls and special gloves are few examples of inputs and hardware devices."
+    },
  
   ]
