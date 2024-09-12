@@ -849,5 +849,10 @@
     "answerLink" : "Open"
         
 }
+ {
+        "id": "168",
+        "question": "What are the types of virtual reality?",
+        "answerLink": "1.Non immersive Virtual-Reality 2.Semi immersive Virtual-Reality 3.Fully immersive Virtual-Reality"
+    },
  
   ]
