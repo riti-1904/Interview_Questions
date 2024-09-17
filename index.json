@@ -849,5 +849,9 @@
     "answerLink" : "Open"
         
 }
- 
+  {
+        "id": "160",
+        "question": "What is virtual reality?",
+        "answerLink": "Virtual reality or VR refers to computer technology that uses software to create realistic images ,sounds & other sensations that replicate real environment. "
+    },
   ]
