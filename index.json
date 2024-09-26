@@ -849,5 +849,9 @@
     "answerLink" : "Open"
         
 }
- 
+    {
+        "id": "167",
+        "question": "How virtual reality technologies can be classified?",
+        "answerLink": "On the basis of immersion levels & application VR technology can be classified"
+    }, 
   ]
