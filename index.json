@@ -849,5 +849,10 @@
     "answerLink" : "Open"
         
 }
+ {
+        "id" : "161",
+        "question" : "What are the components of virtual reality?",
+        "answerLink" : "1.A virtual world 2.Immersion 3.Sensory feedback 4.Interactivity."
+    },
  
   ]
